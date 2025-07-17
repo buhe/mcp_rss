@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/buhe-mcp-rss-badge.png)](https://mseep.ai/app/buhe-mcp-rss)
+
 # MCP RSS
 
 MCP RSS is a Model Context Protocol (MCP) server for interacting with RSS feeds.
