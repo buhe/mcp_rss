@@ -32,7 +32,6 @@ This MCP uses stdio for communication. Fill in ``` npx mcp_rss ``` in the comman
 Use in claude desktop
 ```json
 {
-  "key": "rss",
   "command": "npx",
   "args": [
     "mcp_rss"
