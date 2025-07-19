@@ -38,7 +38,7 @@ Use in claude desktop
     "mcp_rss"
   ],
   "env": {
-    "OPML_FILE_PATH": "/Users/guyanhua/feeds.opml"
+    "OPML_FILE_PATH": "/PATH/YOUR_FEED_FILE.opml"
   }
 }
 
