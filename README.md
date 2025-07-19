@@ -22,7 +22,7 @@ MCP RSS is a Model Context Protocol (MCP) server for interacting with RSS feeds.
 ### Setup MySQL
 
 ```bash
-$ docker run -itd --name mysql-test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 mysql
+docker run -itd --name mysql-test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 mysql
 ```
 
 ### Install MCP
