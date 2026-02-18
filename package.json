@@ -19,7 +19,7 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.7.0",
     "dotenv": "^16.0.3",
-    "fast-xml-parser": "^4.2.7",
+    "fast-xml-parser": "^5.3.6",
     "mysql2": "^3.14.0",
     "node-cron": "^3.0.2",
     "rss-parser": "^3.13.0",
